@@ -1,0 +1,114 @@
+
+-Oo->-0+0-<-oO-
+HELLO EVERYONE
+-Oo->-0+0-<-oO-
+
+This is somewhat of a documentation on how to use the After Effects Happiness Intro Template.
+I tried to make everything as clear and simple as possible.
+
+==================================================
+All you need to know about the bloody folder
+==================================================
+What you will find in the folder you have downloaded:
+
+ =>Assets (Folder):
+	->Audio:
+		\La_La_La (It's the song yo, royalty free ofcourse ;P)
+	->Fonts:
+		\FORTE.TTF
+		\kalinga.ttf
+		\kalingab.ttf
+	->Pictures:
+		\Arrow1
+		\logo(not my actual logo)
+	->Color Pallet
+ =>AEProjectFile (Project File of the After Effects Template)
+
+ =>Read me Please - Documentation (Text File)
+
+ =>Video Example (Video Obviously)
+
+==================================================
+All you need to know about the After Effects stuff
+==================================================
+
+Folders:
+
+ => Stuff you must change:
+	That is where i suggest that you make the changes
+
+ => Assets:
+	->Audio: (it's the song you dingus)
+	->Compositions:
+		>Transitions:
+			\Circle
+			\Diagonal
+			\Side Transition
+		>Main Composition (Where everything lives in harmony)
+	->Pictures:
+		\Arrow
+		\logo (not my actual logo ;P)
+	->Solids (don't even bother with this one)
+	->Stuff you should NOT change (you can mess around if you want, but it would be prefered not to :) )
+
+ => Color Palette
+	It's easier to chagne the colors according to the specified color palette, but if you want to use your own colors... Go crazy! ;P
+
+__________________________________________
+
+Fonts:
+
+(You need to have these fonts installed in your machine)
+
+ => Title: Forte
+ => Subtitle: Kalinga
+
+__________________________________________
+
+Logo:
+
+ =>It should be:
+	>Transparent
+	>Have a single color
+
+ =>If it's multicolored:
+	->Navigate to the "Side Transition" composition.
+	->Click once on the "Logo" composition on the left hand side next to the timeline.
+	->Go to its effects.
+	->Either delete the "Fill" effect or hit the "fx" icon next to it.
+__________________________________________
+
+TIPS:
+
+ =>At 4:20(Blaze it :3) the color of the Title and Subtitle change:
+	->To change the colors:
+		>Navigate to the "Camera work" composition
+		>Navigate to the "Channel" composition
+		>The Title and the Subtitle have a fill effect
+		>Either delete it or change the colors
+
+
+ =>When using the rendered video, make sure to set the blending mode to "Screen" in order to get rid of that black screen at the end.
+
+__________________________________________
+
+While you are at it, follow me here:
+
+ => Website: http://www.constantinosgeorgiou.com/
+
+ => Twitter: https://twitter.com/constant_ge
+
+ => Youtube: https://www.youtube.com/channel/UC7KNllcUSufBtWCNnrurhDQ
+
+ => Instagram: https://www.instagram.com/georgioucostantinos/
+
+ => Google Plus: https://plus.google.com/107931568002426438870/about
+
+ => LinkedIn: https://www.linkedin.com/in/constantinosgeorgiou
+
+ => GitHub: https://github.com/ConstantinosGeorgiou
+
+==================================================
+Copyright © 2016 by Constantinos Georgiou - (CC-BY-SA)
+Sharing appreciated http://www.constantinosgeorgiou.com/
+==================================================
